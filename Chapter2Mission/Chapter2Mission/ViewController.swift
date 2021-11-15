@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     @IBOutlet var ImageViewer: UIImageView!
     @IBOutlet var BtnPrev: UIButton!
     @IBOutlet var BtnNext: UIButton!
-    
+    ₩
     
     
     override func viewDidLoad() {
